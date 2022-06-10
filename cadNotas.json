@@ -1,0 +1,25 @@
+
+[
+    {
+    "ru": 1,
+    "materiaId": 1, 
+    "nome": "Matheus Saimon",
+    "materia": "Português",
+    "nota": 8.5 
+    },
+
+    {
+        "ru": 2,
+        "materiaId": 2, 
+        "nome": "Erick",
+        "materia": "Matematica",
+        "nota": 5.8
+    },
+    {
+        "ru": 3,
+        "materiaId": 3, 
+        "nome": "Sabrina Salles",
+        "materia": "Artes",
+        "nota": 9.8
+    }
+]
