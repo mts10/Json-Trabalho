@@ -3,25 +3,25 @@
         "ru": 1,
         "aluno": 1,
         "email": "matheus30120@gmail.com",
-        "materia": "Ajudar os indios"
+        "atiExtra": "Ajudar os indios"
     },
     {
         "ru": 2,
         "aluno": 2,
         "email": "sabrina@gmail.com",
-        "materia": "Projeto Social da Lapa"
+        "atiExtra": "Projeto Social da Lapa"
     },  
     {
         "ru": 3,
         "aluno": 3,
         "email": "nelson@gmail.com",
-        "materia": "Aguias da Bola"
+        "atiExtra": "Aguias da Bola"
     },
     {
         "ru": 4,
         "aluno": 4,
         "email": "dacvi@gmail.com",
-        "materia": "Quilombos"
+        "atiExtra": "Quilombos"
     }  
 
 ]
